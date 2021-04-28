@@ -12,6 +12,7 @@ alert('Hello '+userName +' Welcome to my website, best wishes :) ');
 
 function Question1  (myName) {
 
+    
 switch (myName.toUpperCase()) {
     case 'YES':
     case 'Y':
