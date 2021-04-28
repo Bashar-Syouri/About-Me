@@ -14,10 +14,6 @@ alert('Hello '+userName +' Welcome to my website, best wishes :) ');
 
 function Question1  (myName) {
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e8ed36a26c19555615e01816ef87e07ddf5fef52
     
 switch (myName.toUpperCase()) {
     case 'YES':
