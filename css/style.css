@@ -9,7 +9,7 @@
 
 
 
- #firstp{
+ #firstp {
      font-size: large;
      font-weight: bold;
      font-style:italic;
@@ -23,6 +23,7 @@
 
 span {
     background-color: darkturquoise;
+    font-weight: bolder;
 }
 
 
@@ -48,7 +49,7 @@ span {
 
  nav ul li {
       
- 
+    background-color: rgb(29, 127, 167);
     display: inline;
     margin: 100px;
     
@@ -60,7 +61,7 @@ span {
 
  nav ul li a { 
      text-decoration: none;
-     color: rgb(10, 57, 151);
+     color: rgb(193, 204, 226);
      
  }
  
@@ -82,13 +83,6 @@ span {
      background-color: brown;
      
      }
-
-     
- 
- 
-#top {
-     text-align: center;
- }
 
 
  .sixth-span {
