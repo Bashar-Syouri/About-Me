@@ -1,14 +1,24 @@
-h1 {
-    text-align: center;
-    font-size: 60px;
-    font-weight:bolder;
-}
+
+
+    #header-background {
+        text-align: center;
+        font-size: 60px;
+        font-weight:bolder;
+        background:url(https://image.shutterstock.com/image-illustration/website-header-banner-design-abstract-260nw-1621024345.jpg)
+    }
+
+
+
  #firstp{
      font-size: large;
      font-weight: bold;
      font-style:italic;
      
      
+}
+
+.p1 {
+    font-family: 'Kalam', cursive;
 }
 
 span {
@@ -37,10 +47,12 @@ span {
 
 
  nav ul li {
-     
-     background-color: rgb(10, 146, 151);
+      
+ 
     display: inline;
-    margin: 90px;
+    margin: 100px;
+    
+
     
  }
 
@@ -48,14 +60,18 @@ span {
 
  nav ul li a { 
      text-decoration: none;
-     color: rgb(2, 13, 34);
+     color: rgb(10, 57, 151);
      
  }
  
 
+ 
  main ol li {
      list-style: decimal;
- }
+     font-family: 'Special Elite', cursive;
+     
+    
+    }
 
 
  body{
@@ -64,9 +80,22 @@ span {
      
  .fifth-span {
      background-color: brown;
+     
+     }
+
+     
+ 
+ 
+#top {
+     text-align: center;
  }
+
 
  .sixth-span {
      background-color: darkturquoise;
  }
  
+footer{
+ background-color: rgb(180, 128, 138);
+display: inline-block;
+}
